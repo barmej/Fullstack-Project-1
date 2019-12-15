@@ -2,7 +2,7 @@
 
 <h2 dir="rtl"> عن المشروع</h2>
 
-<img src="https://github.com/barmej/Fullsatck-Project-1/blob/master/images/demo.png" alt="pretty pet screenshot demo" />
+<img src="https://github.com/barmej/Fullstack-Project-1/blob/master/images/demo.png" alt="pretty pet screenshot demo" />
 
 <h3 dir="rtl"> نبذة عن المشروع:</h3>
 
